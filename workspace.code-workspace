@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../Users/pepin/.vscode/extensions/ms-dotnettools.vscode-dotnet-pack-1.0.12/misc"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
